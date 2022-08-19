@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/%7BSolar-System%7D/static/css/main.597298df.css",
-    "main.js": "/%7BSolar-System%7D/static/js/main.1eb78716.js",
-    "static/media/Mercurio.png": "/%7BSolar-System%7D/static/media/Mercurio.a7105a56cdf707dc3cce.png",
-    "static/media/Terra.png": "/%7BSolar-System%7D/static/media/Terra.990ac782d3b62d230d28.png",
-    "static/media/Venus.png": "/%7BSolar-System%7D/static/media/Venus.397fdee264550fe0d0d1.png",
-    "static/media/Marte.png": "/%7BSolar-System%7D/static/media/Marte.6cae79d3ef1a90069610.png",
-    "static/media/Jupiter.png": "/%7BSolar-System%7D/static/media/Jupiter.529cdbe0cad25f29f533.png",
-    "static/media/Netuno.png": "/%7BSolar-System%7D/static/media/Netuno.48cf14b71b63a23d6f8a.png",
-    "static/media/Saturno.png": "/%7BSolar-System%7D/static/media/Saturno.00b7295f54e9af9bbe90.png",
-    "static/media/NewSpace.ttf": "/%7BSolar-System%7D/static/media/NewSpace.4974e2f12b72afb63335.ttf",
-    "static/media/Urano.png": "/%7BSolar-System%7D/static/media/Urano.607cb33ce7cb511e3d9c.png",
-    "static/media/SpaceQuest.ttf": "/%7BSolar-System%7D/static/media/SpaceQuest.bbd7c5c4c0d588fa0104.ttf",
-    "static/media/SPACEMISSION.otf": "/%7BSolar-System%7D/static/media/SPACEMISSION.982c96d74848b29705d5.otf",
-    "index.html": "/%7BSolar-System%7D/index.html",
-    "main.597298df.css.map": "/%7BSolar-System%7D/static/css/main.597298df.css.map",
-    "main.1eb78716.js.map": "/%7BSolar-System%7D/static/js/main.1eb78716.js.map"
+    "main.css": "/Solar-System/static/css/main.640dfb1d.css",
+    "main.js": "/Solar-System/static/js/main.24354d5e.js",
+    "static/media/Mercurio.png": "/Solar-System/static/media/Mercurio.a7105a56cdf707dc3cce.png",
+    "static/media/Terra.png": "/Solar-System/static/media/Terra.990ac782d3b62d230d28.png",
+    "static/media/Venus.png": "/Solar-System/static/media/Venus.397fdee264550fe0d0d1.png",
+    "static/media/Marte.png": "/Solar-System/static/media/Marte.6cae79d3ef1a90069610.png",
+    "static/media/Jupiter.png": "/Solar-System/static/media/Jupiter.529cdbe0cad25f29f533.png",
+    "static/media/Netuno.png": "/Solar-System/static/media/Netuno.48cf14b71b63a23d6f8a.png",
+    "static/media/Saturno.png": "/Solar-System/static/media/Saturno.00b7295f54e9af9bbe90.png",
+    "static/media/NewSpace.ttf": "/Solar-System/static/media/NewSpace.4974e2f12b72afb63335.ttf",
+    "static/media/Urano.png": "/Solar-System/static/media/Urano.607cb33ce7cb511e3d9c.png",
+    "static/media/SpaceQuest.ttf": "/Solar-System/static/media/SpaceQuest.bbd7c5c4c0d588fa0104.ttf",
+    "static/media/SPACEMISSION.otf": "/Solar-System/static/media/SPACEMISSION.982c96d74848b29705d5.otf",
+    "index.html": "/Solar-System/index.html",
+    "main.640dfb1d.css.map": "/Solar-System/static/css/main.640dfb1d.css.map",
+    "main.24354d5e.js.map": "/Solar-System/static/js/main.24354d5e.js.map"
   },
   "entrypoints": [
-    "static/css/main.597298df.css",
-    "static/js/main.1eb78716.js"
+    "static/css/main.640dfb1d.css",
+    "static/js/main.24354d5e.js"
   ]
 }
